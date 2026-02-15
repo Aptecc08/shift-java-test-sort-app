@@ -7,7 +7,7 @@
 1. Скачать репозиторий с проектом
 2. Открыть директорию с проектом в командной строке
 3. Ввести команду для сборки проекта: "javac *.java"
-4. Ввести команду для запуска проекта: "java sort [options] `<input files>` "
+4. Ввести команду для запуска проекта: "java SortApp [options] `<input files>` "
 ## Options:
     -o <path>  output directory (путь к директории вывода)
     -p <pref>  prefix for output files (префикс для файлов вывода)
